@@ -5,7 +5,7 @@ Experiments in C#.
 Use the most recent LTS version of Visual Studio (VS) Community.
 
 ## Legal
-This work is covered under the MIT license. See [License](LICENSE.txt).
+This work is covered under the [MIT license](LICENSE.txt).
 Incorporated third-party work such as NuGet packages are subject to their own licenses.
 
 ## Design
