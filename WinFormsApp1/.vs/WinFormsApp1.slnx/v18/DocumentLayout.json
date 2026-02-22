@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\sahsudo\\csharp\\WinFormsApp1\\",
+  "WorkspaceRootPath": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\models\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\settingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\models\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\events\\statuschangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\controls\\rigolscopecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\events\\statuschangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\events\\statuschangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\interfaces\\istatusprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|z:\\documents\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\interfaces\\istatusprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\interfaces\\istatusprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\sahsudo\\csharp\\winformsapp1\\winformsapp1\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +54,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RigolScopeControl.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Controls\\RigolScopeControl.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs",
-              "RelativeToolTip": "WinFormsApp1\\Controls\\RigolScopeControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T18:43:14.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SettingsControl.cs [Design]",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Controls\\SettingsControl.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs [Design]",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Controls\\SettingsControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T16:49:42.968Z",
@@ -79,24 +66,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SettingsControl.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Controls\\SettingsControl.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\SettingsControl.cs",
               "RelativeToolTip": "WinFormsApp1\\Controls\\SettingsControl.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwEQAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwDEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T16:38:10.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\AppSettings.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\AppSettings.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\AppSettings.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\AppSettings.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\AppSettings.cs",
               "RelativeToolTip": "WinFormsApp1\\Models\\AppSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,79 +92,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainView.cs [Design]",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\MainView.cs",
               "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\MainView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T16:37:06.888Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainView.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\MainView.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs",
-              "RelativeToolTip": "WinFormsApp1\\MainView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T16:37:10.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RigolScopeControl.cs [Design]",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Controls\\RigolScopeControl.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Controls\\RigolScopeControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T18:43:06.18Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-22T16:37:06.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainView.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\MainView.cs",
+              "RelativeToolTip": "WinFormsApp1\\MainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T16:37:10.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SettingsManager.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\SettingsManager.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\SettingsManager.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Models\\SettingsManager.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\SettingsManager.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Models\\SettingsManager.cs",
               "RelativeToolTip": "WinFormsApp1\\Models\\SettingsManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAABwZ2ZmZoYywBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T17:13:49.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StatusChangedEventArgs.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
-              "RelativeToolTip": "WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "RigolScopeControl.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controls\\RigolScopeControl.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs",
+              "RelativeToolTip": "WinFormsApp1\\Controls\\RigolScopeControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T17:56:42.485Z",
+              "WhenOpened": "2026-02-22T18:43:14.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RigolScopeControl.cs [Design]",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Controls\\RigolScopeControl.cs",
+              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Controls\\RigolScopeControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T18:43:06.18Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "StatusChangedEventArgs.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
+              "RelativeToolTip": "WinFormsApp1\\Events\\StatusChangedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T17:56:42.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IStatusProvider.cs",
-              "DocumentMoniker": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Interfaces\\IStatusProvider.cs",
+              "DocumentMoniker": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Interfaces\\IStatusProvider.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Interfaces\\IStatusProvider.cs",
-              "ToolTip": "C:\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Interfaces\\IStatusProvider.cs",
+              "ToolTip": "Z:\\Documents\\sahsudo\\csharp\\WinFormsApp1\\WinFormsApp1\\Interfaces\\IStatusProvider.cs",
               "RelativeToolTip": "WinFormsApp1\\Interfaces\\IStatusProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T18:01:30.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T18:01:30.576Z"
             }
           ]
         }
