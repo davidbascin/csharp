@@ -1,0 +1,84 @@
+﻿namespace WinFormsApp1;
+
+public partial class MainView : Form
+{
+    public MainView()
+    {
+        InitializeComponent();
+        this.Text = "WinFormsApp1";
+        this.FormClosing += MainForm_FormClosing;
+    }
+    public void SaveSettings()
+    {
+        if (splitContainer1.Panel2.Controls.Count > 0)
+        {
+            if (splitContainer1.Panel2.Controls[0] is SettingsControl settingsControl)
+            {
+                settingsControl.UpdateSettingsInMemoryFromUi();
+            }
+        }
+        string SettingsFilePath = SettingsManager.SaveSettings();
+        if (SettingsFilePath != null)
+        {
+            this.statusStrip1.Items[0].Text = $"Settings saved to \"{SettingsFilePath}\"";
+        }
+    }
+    private void MainForm_FormClosing(object? sender, FormClosingEventArgs e)
+    {
+        // TODO: If some I/O or other operation is ongoing, terminate it first.
+    }
+    private void ShowView(UserControl newView)
+    {
+        newView.Dock = DockStyle.Fill;
+        if (newView is IStatusProvider statusControl)
+        {
+            statusControl.StatusChanged += OnControlStatusChanged;
+        }
+        splitContainer1.Panel2.Controls.Clear();
+        splitContainer1.Panel2.Controls.Add(newView);
+    }
+    // This method handles the data sent from ANY compatible UserControl
+    private void OnControlStatusChanged(object sender, StatusChangedEventArgs e)
+    {
+        statusStrip1.Items[0].Text = e.StatusMessage;
+        // Use the bool to toggle UI elements on the MainForm
+        this.Cursor = e.IsBusy ? Cursors.WaitCursor : Cursors.Default;
+
+    }
+    private void settingsButton_Click(object sender, EventArgs e)
+    {
+        ShowView(new SettingsControl());
+    }
+
+    private void rigolScopebutton_Click(object sender, EventArgs e)
+    {
+        ShowView(new RigolScopeControl());
+        SaveSettings();
+    }
+
+    private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+    {
+        if (sender is ToolStripItem item && !string.IsNullOrEmpty(item.Text))
+        {
+            var label = sender as ToolStripStatusLabel;
+            if (label == null || string.IsNullOrWhiteSpace(label.Text)) return;
+
+            string source = label.Text;
+            string result = source; // Default to the full string
+
+            int firstQuote = source.IndexOf('"');
+            int lastQuote = source.LastIndexOf('"');
+
+            // Only extract if there are at least two distinct double-quote characters
+            if (firstQuote != -1 && lastQuote != -1 && firstQuote < lastQuote)
+            {
+                // Extract everything between the first and last quote, inclusive
+                result = source.Substring(firstQuote, (lastQuote - firstQuote) + 1);
+            }
+
+            // Set the clipboard text to either the extracted segment or the full string
+            Clipboard.SetText(result);
+
+        }
+    }
+}

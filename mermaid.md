@@ -5,6 +5,7 @@ An example, inspired by a [cartoon](https://imgs.xkcd.com/comics/good_code.png) 
 
 ```mermaid
 ---
+title: How to write good Code
 config:
   look: classic
   theme: forest
@@ -22,9 +23,10 @@ flowchart TB
     DoneYet -- "No, and the<br>requirements<br>have changed." --> Throw;
 ```
 
-Shapes and lines
-
 ```mermaid
+---
+title: Shapes and Lines
+---
 flowchart LR
     rect[processing] --- roundrect(processing);
     roundrect --> circle((on<br>page<br>connection));
