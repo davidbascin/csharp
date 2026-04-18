@@ -50,3 +50,21 @@ dotnet run
 
 When run, a window with a simple message appears.
 Asked Copilot for suitable content and placed that into [.gitignore](HelloAvalonia/.gitignore).
+
+### Avalonia for VSCode
+Search for the extension Avalonia for VSCode by Avalonia Team and install.
+There is a rather large license to agree to upon installing this extension.
+
+Exited VSCode because the folder it was opened into had multiple C# projects.
+Restarted VSCode in the HelloAvalonia folder and was asked to install .net SDK by VSCode.
+
+Installer was [.net download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.202-windows-x64-installer).
+Output is.
+
+	The following products were installed
+	.net sdk 10.0.202
+	.net runtime 10.0.6
+	asp.net core runtime 10.0.6
+	.net windoes desktop runtime 10.0.6
+	This product collects usage data.
+	You must restart your computer.
