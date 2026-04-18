@@ -26,3 +26,6 @@ See [Markdown with embedded diagrams](mermaid.md).
 One way of organizing a MVVM solution in VS.
 
 Created a .net 10 core WPF application.
+
+## Avalonia UI
+It is interesting to try out [Avalonia UI](https://avaloniaui.net/) to see about cross-platform C# using open source tooling.
