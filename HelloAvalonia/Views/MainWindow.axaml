@@ -7,6 +7,8 @@
         x:Class="HelloAvalonia.Views.MainWindow"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
+        Width="400" 
+        Height="450"
         Title="HelloAvalonia">
 
     <Design.DataContext>
@@ -14,7 +16,22 @@
              to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
         <vm:MainWindowViewModel/>
     </Design.DataContext>
-
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-
+    <StackPanel>
+        <Border Margin="5" CornerRadius="10" Background="LightBlue">
+            <TextBlock Margin="5"
+            FontSize="24"
+            Text="{Binding ProgramName}"    
+            HorizontalAlignment="Center">
+            </TextBlock>
+        </Border>
+        <Grid ShowGridLines="True" Margin="5" 
+              ColumnDefinitions="120, 100"
+              RowDefinitions="Auto, Auto">
+            <TextBlock Grid.Row="0" Grid.Column="0" Margin="10">Celsius</TextBlock>
+            <TextBox Grid.Row="0" Grid.Column="1" Margin="0 5" Text="0"/>
+            <TextBlock Grid.Row="1" Grid.Column="0" Margin="10">Fahrenheit</TextBlock>
+            <TextBox Grid.Row="1" Grid.Column="1" Margin="0 5" Text="0"/>
+        </Grid>
+        <Button HorizontalAlignment="Center" Click="Button_OnClick">Calculate</Button>
+    </StackPanel>
 </Window>
