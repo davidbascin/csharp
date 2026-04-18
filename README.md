@@ -68,3 +68,7 @@ Output is.
 	.net windoes desktop runtime 10.0.6
 	This product collects usage data.
 	You must restart your computer.
+
+So far, this extension does nothing except throw warnings, for example no .sln or no SDK even
+though they are present and the app builds. Seems not worth the troubleshooting effort at the moment, just
+remove the extension and perhaps try it again later.
