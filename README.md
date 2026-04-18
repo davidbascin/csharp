@@ -29,3 +29,24 @@ Created a .net 10 core WPF application.
 
 ## Avalonia UI
 It is interesting to try out [Avalonia UI](https://avaloniaui.net/) to see about cross-platform C# using open source tooling.
+
+### On PC3
+The computer PC3 is the 32-core AMD.
+Using Windows 11.
+Following instructions from Avalonia UI from within VS Code.
+
+In folder C:\all\csharp. The dotnet version given was 10.0.104.
+The Avalonia.Templates installed was version 12.0.1.
+
+The creation of HelloAvalonia seemed to be actually cloning of a template.
+
+```bash
+dotnet --version
+dotnet new install Avalonia.Templates
+dotnet new avalonia.mvvm -o HelloAvalonia
+cd HelloAvalonia
+dotnet run
+```
+
+When run, a window with a simple message appears.
+Asked Copilot for suitable content and placed that into [.gitignore](HelloAvalonia/.gitignore).

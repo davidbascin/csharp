@@ -1,0 +1,126 @@
+# Binaries and build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE and editor files
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# NuGet packages
+packages/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.tmp_proj
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# ClickOnce
+*.application
+*.manifest
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# InstallShield
+*.ism
+*.isproj
+
+# InstallShield output folder
+[Ee]xpress/
+
+# DocProject
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/*.HtmlHelp
+
+# ClickOnce
+publish/
+
+# Publish
+*.publish.xml
+*.pubxml
+
+# NuGet Packages Directory
+## TODO: If you have NuGet Package Restore enabled, uncomment the next line
+# packages/
+
+# Windows Azure Build Output
+csx/
+*.build.csdef
+
+# Windows Store app package directory
+AppPackages/
+
+# Others
+sql/
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+*.log
+*.vspscc
+*.vsd
+*.vdproj
+*.psess
+*.vsp
+*.pidb
+*.userprefs
+*.usertasks
+*.pidb
+*.svclog
+*.scc
+*.DotSettings
+*.projectindexer
+*.publishproj
